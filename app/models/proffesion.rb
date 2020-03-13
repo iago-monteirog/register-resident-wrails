@@ -1,0 +1,2 @@
+class Proffesion < ApplicationRecord
+end
